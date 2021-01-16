@@ -4922,7 +4922,7 @@ var rules = [
   "||rawgithub.com",
   "||github.global.ssl.fastly.net",
   "||codeload.github.com",
-  "||github.com",
+  //"||github.com",
   "||razyboard.com",
   "rcinet.ca",
   ".read100.com",
